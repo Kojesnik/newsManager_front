@@ -1,0 +1,97 @@
+.addNewsContent {
+    margin-top: 130px;
+    margin-bottom: 150px;
+    text-align: center;
+}
+
+input#title {
+    width: 50%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-left: 25%;
+}
+
+.addNewsShorttext {
+    width: 100%;
+    float: left;
+}
+
+.addNewsFullText {
+    width: 100%;
+    float: left;
+}
+
+textarea#shorttext {
+    width: 50%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    resize: vertical;
+    min-height: 150px;
+}
+
+textarea#fulltext {
+    width: 50%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    resize: vertical;
+    min-height: 300px;
+}
+
+.addNewsButton {
+    width: 50%;
+    background-color: #4CAF50;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.plussTagButton {
+    width: 100px;
+    background-color: #FF7F50;
+    color: white;
+    padding: 14px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    display: inline-block;
+}
+
+.addNewsCancelButton {
+    background-color: #f44336;
+}
+
+div#tagDropdown {
+    width: 400px;
+    display: inline-block;
+    margin-right: 20%;
+}
+
+div#deleteTag {
+    display: inline-block;
+}
+
+div#addedTag {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    display: inline-block;
+}
+
+div#tag {
+    width: 100%;
+    float: left;
+}

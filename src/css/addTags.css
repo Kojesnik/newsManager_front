@@ -1,0 +1,72 @@
+.addTagsContent {
+    margin-top: 130px;
+    margin-bottom: 150px;
+    text-align: center;
+}
+
+label#tagLabel {
+    margin-top: 7px;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+div#tagDiv {
+    margin-left: 150px;
+    width: 100%;
+    clear: both;
+    padding-top: 20px;
+}
+
+div#addtagDiv {
+    margin-top: 100px;
+    margin-left: 113px;
+    width: 100%;
+    clear: both;
+    padding-top: 20px;
+}
+
+
+input#tagInput {
+    background-color: white;
+    border: none;
+    font-size: 16px;
+    margin-left: 100px;
+    width: 200px;
+    float: left;
+}
+
+input#addtagInput {
+    background-color: white;
+    font-size: 16px;
+    margin-left: 100px;
+    width: 200px;
+    float: left;
+}
+
+button#editTag {
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    text-decoration: none;
+    width: 100px;
+    height: 30px;
+    margin-left: 100px;
+    margin-top: 7px;
+    float: left;
+}
+
+button#discardTag {
+    background-color: #f44336;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    text-decoration: none;
+    width: 100px;
+    height: 30px;
+    margin-left: 10px;
+    margin-top: 7px;
+    float: left;
+}

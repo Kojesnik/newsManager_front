@@ -1,0 +1,159 @@
+.appHeader {
+    width: 100%;
+    height: 70px;
+    top: 0;
+    z-index: 10 !important;
+    position: fixed !important;
+}
+
+.headerButtons {
+    padding-left: 10px;
+}
+
+div#searchCriteria.grid .column {
+    padding: 7px;
+}
+
+div#jopa.grid .column {
+    margin: 0px;
+}
+
+.searchButton {
+    width: 110px;
+}
+
+.resetButton {
+    width: 110px;
+}
+
+.searchContent {
+    width: 30%;
+}
+
+button#resetButton {
+    width: 110px;
+}
+
+button#searchButton {
+    width: 110px;
+}
+
+.content {
+    padding-top: 120px;
+    text-align: center;
+    margin-bottom: 100px;
+}
+
+.loginContent {
+    padding-top: 300px;
+}
+
+.newsList {
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 50px;
+}
+
+.newsBlock {
+    height: 300px;
+    margin-top: 100px;
+}
+
+.singleNewsBlock {
+    height: 700px;
+}
+
+.singleTagBlock {
+    display: inline;
+}
+
+.tagBlock {
+    margin-top: 0px;
+    color: #A8A8A8;
+}
+
+.singleNewsTagBlock {
+    margin-top: 50px;
+    color: #A8A8A8;
+}
+
+.creationDateBlock {
+    float: right;
+    color: #A8A8A8;
+    margin-right: 15px;
+}
+
+.singleCreationDateBlock {
+    position: absolute;
+    right: 0;
+    margin-top: 10px;
+    color: #A8A8A8;
+    margin-right: 15px;
+}
+
+.authorBlock {
+    color: #A8A8A8;
+    font-size: 15px;
+}
+
+.singleAuthorBlock {
+    margin-top: 10px;
+    color: #A8A8A8;
+    font-size: 15px;
+}
+
+.shortTextBlock {
+    margin-top: 10px;
+    font-size: 16px;
+}
+
+.fullTextBlock {
+    margin-top: 10px;
+    font-size: 16px;
+}
+
+.newsBlockButtons {
+    position: absolute;
+    bottom: 20px;
+}
+
+.newsBlockButton {
+    margin-left: 10px;
+    display: inline-block;
+}
+
+div .newsBlockButton #editButton {
+    
+}
+
+div .newsBlockButton #deleteButton {
+    
+}
+
+body > .grid {
+     height: 50%;
+}
+
+.loginColumn {
+    max-width: 450px;
+}
+
+.addNewsForm {
+    max-width: 700px;    
+}
+
+
+label {
+    float: left;
+}
+
+.addedTagBlock {
+    display: inline-block;
+    margin-left: 2px;
+}
+
+.tags {
+    height: 480px;
+    overflow-y: auto;
+    overflow-x: hidden;
+}

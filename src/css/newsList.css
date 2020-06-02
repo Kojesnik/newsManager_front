@@ -1,0 +1,84 @@
+.news {
+    -webkit-box-shadow:0 1px 4px rgba(0, 0, 0, 0.3), 0 0 40px rgba(0, 0, 0, 0.1) inset;
+       -moz-box-shadow:0 1px 4px rgba(0, 0, 0, 0.3), 0 0 40px rgba(0, 0, 0, 0.1) inset;
+            box-shadow:0 1px 4px rgba(0, 0, 0, 0.3), 0 0 40px rgba(0, 0, 0, 0.1) inset;
+    background: white;
+    margin-top: 20px;
+    width: 75%;
+    height: 200px;
+    border-radius: 4px;
+}
+
+.newsContent {
+    width: 100%;
+    float: left;
+    padding-left: 10px;
+    padding-top: 10px;
+}
+
+.tag {
+    display: inline;
+    color: #666666;
+}
+
+.title {
+    float: left;
+    font-size: 30px;
+}
+
+.author {
+    position: absolute;
+    float: left;
+    margin-top: 20px;
+    color: #666666;
+}
+
+.shortText {
+    margin-top: 25px;
+    float: left;
+}
+
+.tags {
+    clear: both;
+    float: left;
+    margin-top: 5px;
+}
+
+.creationDate {
+    float: right;
+    color: #666666;
+    margin-right: 10px;
+}
+
+.newsButtons {
+    width: 100%;
+    float: left;
+    margin-top: 20px;
+}
+
+button#edit {
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    text-decoration: none;
+    width: 100px;
+    height: 30px;
+    margin-right: 10px;
+    float: left;
+}
+
+button#delete {
+    background-color: #f44336;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    text-decoration: none;
+    width: 100px;
+    height: 30px;
+    float: left;
+    z-index: +300;
+    position: relative;
+}

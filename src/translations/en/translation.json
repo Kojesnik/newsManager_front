@@ -1,0 +1,28 @@
+{
+    "authorization": {
+        "login": "Log In",
+        "signup": "Sign Up",
+        "logout": "Log Out"
+    },
+    "logo": "News Portal",
+    "authors": "Authors",
+    "tags": "Tags",
+    "localisation": {
+        "lang": "Language",
+        "english": "English",
+        "russian": "Russian",
+        "french": "French"
+    },
+    "search": "Search",
+    "reset": "Reset",
+    "edit": "Edit",
+    "delete": "Delete",
+    "close": "Close",
+    "cancel": "Cancel",
+    "addNews": "Add News",
+    "addTags": "Add/Edit Tags",
+    "addAuthors": "Add/Edit Authors",
+    "Log-in to your account": "Log-in to your account",
+    "username": "Username",
+    "password": "Password"
+}

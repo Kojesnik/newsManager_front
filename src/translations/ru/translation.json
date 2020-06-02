@@ -1,0 +1,28 @@
+{
+    "authorization": {
+        "login": "Войти",
+        "signup": "Регистрация",
+        "logout": "Выйти"
+    },
+    "logo": "News Portal",
+    "authors": "Авторы",
+    "tags": "Теги",
+    "localisation": {
+        "lang": "Язык",
+        "english": "Английский",
+        "russian": "Русский",
+        "french": "Французский"
+    },
+    "search": "Поиск",
+    "reset": "Сброс",
+    "edit": "Обновить",
+    "delete": "Удалить",
+    "close": "Закрыть",
+    "cancel": "Отмена",
+    "addNews": "Добавить Новость",
+    "addTags": "Добавить/Обновить Теги",
+    "addAuthors": "Добавить/Обновить Авторов",
+    "Log-in to your account": "Войдите в свой аккаунт",
+    "username": "Имя пользователя",
+    "password": "Пароль"
+}
